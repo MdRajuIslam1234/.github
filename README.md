@@ -124,5 +124,8 @@ Check out my latest videos:
   </td>
 </tr>
 </table>
+<p>
+  I have added a new line there and this is for learning perpose.
+</p>
 
 <!-- latest-videos-end -->
